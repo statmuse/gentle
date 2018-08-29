@@ -1,3 +1,4 @@
 [submodule "kaldi"]
 	path = ext/kaldi
-	url = https://github.com/kaldi-asr/kaldi
+	url = https://github.com/chenzhehuai/kaldi.git
+	branch = gpu-decoder
